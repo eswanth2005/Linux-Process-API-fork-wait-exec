@@ -46,6 +46,8 @@ int main(void)
 ```
 OUTPUT
 ![image](https://github.com/user-attachments/assets/1cf6d53a-babc-4140-99ed-609d57269480)
+
+
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
 #include <stdio.h>
